@@ -16,7 +16,7 @@
 	current.canCreate = function () {
 		return false;
 	};
-	current.canRead = function () {
+	current.canRead = function () { //aa
 		return false;
 	};
 	current.canWrite = function () {
