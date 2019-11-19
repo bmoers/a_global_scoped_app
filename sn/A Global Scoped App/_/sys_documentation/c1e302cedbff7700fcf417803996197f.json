@@ -1,0 +1,23 @@
+{
+  "element": "u_column_b",
+  "help": null,
+  "hint": null,
+  "label": "column b",
+  "language": "en",
+  "name": "u_a_global_scoped_app_table",
+  "plural": "column bs",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-11 15:26:51",
+  "sys_id": "c1e302cedbff7700fcf417803996197f",
+  "sys_mod_count": 0,
+  "sys_name": "column b",
+  "sys_package": "0923860adbff7700fcf41780399619b9",
+  "sys_policy": null,
+  "sys_scope": "0923860adbff7700fcf41780399619b9",
+  "sys_update_name": "sys_documentation_u_a_global_scoped_app_table_u_column_b_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-11 15:26:51",
+  "url": null,
+  "url_target": null
+}
