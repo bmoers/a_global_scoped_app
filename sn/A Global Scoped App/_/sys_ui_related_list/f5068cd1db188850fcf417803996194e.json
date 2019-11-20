@@ -1,0 +1,22 @@
+{
+  "calculated_name": "Custom Application - Global",
+  "filter": null,
+  "name": "sys_app",
+  "order_by": null,
+  "position": null,
+  "related_list": null,
+  "sys_class_name": "sys_ui_related_list",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-03 18:52:54",
+  "sys_id": "f5068cd1db188850fcf417803996194e",
+  "sys_mod_count": 0,
+  "sys_name": "Custom Application - Global",
+  "sys_package": "0923860adbff7700fcf41780399619b9",
+  "sys_policy": null,
+  "sys_scope": "0923860adbff7700fcf41780399619b9",
+  "sys_update_name": "sys_ui_related_sys_app_global",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-03 18:52:54",
+  "view": "b1b17b829333310063d3941e867ffbdf",
+  "view_name": null
+}
