@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-11-20 09:38:58">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<application_name>A Global Scoped App</application_name>
+<application_scope>global</application_scope>
+<application_version>1.1.2</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>A Global Scoped App - 1.1.2</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>8a807962234ee8a610cf794561e04a4a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>9b8399a8db5d0010fcf417803996197b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_a_global_scoped_app_table_u_column_b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_column_b" table="u_a_global_scoped_app_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;column b&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_column_b&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_a_global_scoped_app_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-09-11 15:26:50&lt;/sys_created_on&gt;&lt;sys_id&gt;a6d38e8edbff7700fcf41780399619b1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;column b&lt;/sys_name&gt;&lt;sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9"&gt;0923860adbff7700fcf41780399619b9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="A Global Scoped App"&gt;0923860adbff7700fcf41780399619b9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_a_global_scoped_app_table_u_column_b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-09-11 15:26:50&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2083474300</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>138391e8db5d0010fcf41780399619fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a6fd50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>A Global Scoped App Table.column b</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>ecb219a80c5d0010cfdbf83cc9a9cea0</update_guid>
+<update_guid_history>ecb219a80c5d0010cfdbf83cc9a9cea0:2083474300,bce302ce07ff7700f131fa28c22ba278:2083474300</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_e523c28edbff7700fcf4178039961988</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="A Global Scoped App">a923c28edbff7700fcf4178039961986</application><filter/><name>A Global Scoped App Table</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>a_global_scoped_app_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e523c28edbff7700fcf4178039961988</sys_id><sys_mod_count>0</sys_mod_count><sys_name>A Global Scoped App Table</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_ui_module_e523c28edbff7700fcf4178039961988</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:37</sys_updated_on><table>u_a_global_scoped_app_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>1316433977</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:57</sys_created_on>
+<sys_id>1383d1e8db5d0010fcf4178039961901</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a71670000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:57</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>A Global Scoped App Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>68b219a8ba5d00107ff5b4171a2b13bb</update_guid>
+<update_guid_history>68b219a8ba5d00107ff5b4171a2b13bb:1316433977,6923c28ef1ff77006cf142b8e3bf7f89:1316433977</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE" conflicted_on_host="https://dev54289.service-now.com/" on_conflict="skipped" if_target_older="1568215571000">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_data_source_5c93ca8edbff7700fcf4178039961982</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source"><sys_data_source action="INSERT_OR_UPDATE"><category/><connection_timeout>0</connection_timeout><connection_url>jdbc:mysql:///</connection_url><connection_url_parameters/><csv_delimiter/><database_name/><database_port/><discard_arrays>true</discard_arrays><expand_node_children>false</expand_node_children><file_path/><file_retrieval_method>Attachment</file_retrieval_method><format>org.mariadb.jdbc.Driver</format><glide_keystore>false</glide_keystore><header_row>0</header_row><import_set_table_label/><import_set_table_name>u_import_whatever</import_set_table_name><instance_name/><jdbc_password/><jdbc_server/><jdbc_user_name>admin</jdbc_user_name><jpath_root_node/><last_run_database_field/><last_run_datetime/><ldap_target/><maximum_rows/><mid_server display_value="MID-DEV-DEV65672">45edba1cdb737300fcf41780399619cc</mid_server><name>a data source</name><oracle_port>1521</oracle_port><oracle_sid>orcl</oracle_sid><properties/><query>All Rows from Table</query><query_timeout>0</query_timeout><scp_authentication>Username and Password</scp_authentication><scp_password/><scp_port/><scp_server/><scp_user_name/><sheet_number>0</sheet_number><sql_statement/><ssh_keyfile_path/><sys_class_name>sys_data_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:26:03</sys_created_on><sys_id>5c93ca8edbff7700fcf4178039961982</sys_id><sys_mod_count>1</sys_mod_count><sys_name>a data source</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_data_source_5c93ca8edbff7700fcf4178039961982</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:26:11</sys_updated_on><table_name>tablename</table_name><type>JDBC</type><use_integrated_authentication>false</use_integrated_authentication><use_last_run_datetime>false</use_last_run_datetime><xpath_root_node/><zipped>false</zipped></sys_data_source></record_update>]]></payload>
+<payload_hash>-912247070</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>178391e8db5d0010fcf41780399619fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a71050000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table/>
+<target_name>a data source</target_name>
+<type>Data Source</type>
+<update_domain>global</update_domain>
+<update_guid>e4b219a8545d0010c2deade36be21eb5</update_guid>
+<update_guid_history>e4b219a8545d0010c2deade36be21eb5:-912247070,93b30ec6b4ff7700cbfaaaa8f8729f40:-912247070,11b30ec6e1ff7700eacdfb358609123d:1304490339</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_1923c28edbff7700fcf4178039961936</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:36</sys_created_on><sys_id>1923c28edbff7700fcf4178039961936</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_a_global_scoped_app_table.a_global_scoped_app_user</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_security_acl display_value="u_a_global_scoped_app_table">5523c28edbff7700fcf417803996191a</sys_security_acl><sys_update_name>sys_security_acl_role_1923c28edbff7700fcf4178039961936</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:36</sys_updated_on><sys_user_role display_value="a_global_scoped_app_user" name="a_global_scoped_app_user">9d23828edbff7700fcf41780399619f6</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1135184507</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>1783d1e8db5d0010fcf4178039961900</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a70240000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>u_a_global_scoped_app_table.a_global_scoped_app_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>6cb219a8985d0010f04d3001a920faa6</update_guid>
+<update_guid_history>6cb219a8985d0010f04d3001a920faa6:-1135184507,1523c28e89ff7700fd4f6fe46a5e1138:-1135184507</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_5923c28edbff7700fcf417803996190e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_a_global_scoped_app_table</description><name>u_a_global_scoped_app_table</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:36</sys_created_on><sys_id>5923c28edbff7700fcf417803996190e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_a_global_scoped_app_table</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_security_acl_5923c28edbff7700fcf417803996190e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:36</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1855929872</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>1b8391e8db5d0010fcf41780399619ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a70d00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>u_a_global_scoped_app_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>a0b219a8e45d00107c1d2fb4e6f68cb1</update_guid>
+<update_guid_history>a0b219a8e45d00107c1d2fb4e6f68cb1:1855929872,d123c28e7bff7700d923b05ecb124711:1855929872</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_a_global_scoped_app_table_u_column_c_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_column_c" label="column c" language="en" table="u_a_global_scoped_app_table"><sys_documentation action="INSERT_OR_UPDATE"><element>u_column_c</element><help/><hint/><label>column c</label><language>en</language><name>u_a_global_scoped_app_table</name><plural>column cs</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:26:51</sys_created_on><sys_id>cde302cedbff7700fcf4178039961980</sys_id><sys_mod_count>0</sys_mod_count><sys_name>column c</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_documentation_u_a_global_scoped_app_table_u_column_c_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:26:51</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-524690528</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>1f8391e8db5d0010fcf41780399619fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a6f6e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>A Global Scoped App Table.column c</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>64b219a8925d001029ad53be60a3cc9c</update_guid>
+<update_guid_history>64b219a8925d001029ad53be60a3cc9c:-524690528,45e302ce02ff7700f1dd27cd9d3f2993:-524690528</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_a123c28edbff7700fcf4178039961984</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="A Global Scoped App">1523028edbff7700fcf417803996192f</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>A Global Scoped App Table</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_a_global_scoped_app_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>a_global_scoped_app_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a123c28edbff7700fcf4178039961984</sys_id><sys_mod_count>0</sys_mod_count><sys_name>A Global Scoped App Table</sys_name><sys_overrides/><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_app_module_a123c28edbff7700fcf4178039961984</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:36</sys_updated_on><timeline_page/><title>A Global Scoped App Table</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>1367872664</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>538391e8db5d0010fcf41780399619fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a71380000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>A Global Scoped App Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>a4b219a8bc5d001065cada006ce01cb8</update_guid>
+<update_guid_history>a4b219a8bc5d001065cada006ce01cb8:1367872664,e923c28e99ff770039aa433b9387ed85:1367872664</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_1923c28edbff7700fcf417803996190b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:36</sys_created_on><sys_id>1923c28edbff7700fcf417803996190b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_a_global_scoped_app_table.a_global_scoped_app_user</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_security_acl display_value="u_a_global_scoped_app_table">9523c28edbff7700fcf4178039961907</sys_security_acl><sys_update_name>sys_security_acl_role_1923c28edbff7700fcf417803996190b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:36</sys_updated_on><sys_user_role display_value="a_global_scoped_app_user" name="a_global_scoped_app_user">9d23828edbff7700fcf41780399619f6</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>2094372152</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>5383d1e8db5d0010fcf4178039961900</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a70120000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>u_a_global_scoped_app_table.a_global_scoped_app_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>a4b219a8ef5d00102e5829d0992ddba5</update_guid>
+<update_guid_history>a4b219a8ef5d00102e5829d0992ddba5:2094372152,d923c28e30ff7700c8e93db7eaf2350d:2094372152</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_5523c28edbff7700fcf417803996191a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_a_global_scoped_app_table</description><name>u_a_global_scoped_app_table</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:36</sys_created_on><sys_id>5523c28edbff7700fcf417803996191a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_a_global_scoped_app_table</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_security_acl_5523c28edbff7700fcf417803996191a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:36</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-2020816602</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>578391e8db5d0010fcf41780399619ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a70bf0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>u_a_global_scoped_app_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>2cb219a8f05d00102014fe401c9957af</update_guid>
+<update_guid_history>2cb219a8f05d00102014fe401c9957af:-2020816602,5d23c28e86ff77007047121ca0a11c35:-2020816602</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_a_global_scoped_app_table_u_column_b_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_column_b" label="column b" language="en" table="u_a_global_scoped_app_table"><sys_documentation action="INSERT_OR_UPDATE"><element>u_column_b</element><help/><hint/><label>column b</label><language>en</language><name>u_a_global_scoped_app_table</name><plural>column bs</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:26:51</sys_created_on><sys_id>c1e302cedbff7700fcf417803996197f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>column b</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_documentation_u_a_global_scoped_app_table_u_column_b_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:26:51</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-2126367842</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>5b8391e8db5d0010fcf41780399619fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a6f5c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>A Global Scoped App Table.column b</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>acb219a84b5d0010e8d3d325ad385a9a</update_guid>
+<update_guid_history>acb219a84b5d0010e8d3d325ad385a9a:-2126367842,41e302cea6ff770007ed85deebcab592:-2126367842</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_2923c28edbff7700fcf4178039961958</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_a_global_scoped_app_table</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:36</sys_created_on><sys_id>2923c28edbff7700fcf4178039961958</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_a_global_scoped_app_table</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>ua_table_licensing_config_2923c28edbff7700fcf4178039961958</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:36</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-577218405</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:57</sys_created_on>
+<sys_id>5b83d1e8db5d0010fcf4178039961901</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a70820000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:57</sys_updated_on>
+<table/>
+<target_name>u_a_global_scoped_app_table</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>e8b219a8d95d001033884f46d02c96ac</update_guid>
+<update_guid_history>e8b219a8d95d001033884f46d02c96ac:-577218405,6d23c28e5eff770052f80c2d679f0c7e:-577218405</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_a_global_scoped_app_table_u_column_a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_column_a" table="u_a_global_scoped_app_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;column a&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_column_a&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_a_global_scoped_app_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-09-11 15:26:50&lt;/sys_created_on&gt;&lt;sys_id&gt;6dc3868edbff7700fcf4178039961918&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;column a&lt;/sys_name&gt;&lt;sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9"&gt;0923860adbff7700fcf41780399619b9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="A Global Scoped App"&gt;0923860adbff7700fcf41780399619b9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_a_global_scoped_app_table_u_column_a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-09-11 15:26:50&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>747955708</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>5f8391e8db5d0010fcf41780399619fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a6fc00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>A Global Scoped App Table.column a</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>28b219a8825d0010c96605f7facf1e9f</update_guid>
+<update_guid_history>28b219a8825d0010c96605f7facf1e9f:747955708,bce30e8e6cff77009160b07a8253fca9:747955708</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_application_a923c28edbff7700fcf4178039961986</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>A Global Scoped App</name><order/><roles>a_global_scoped_app_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a923c28edbff7700fcf4178039961986</sys_id><sys_mod_count>0</sys_mod_count><sys_name>A Global Scoped App</sys_name><sys_overrides/><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_ui_application_a923c28edbff7700fcf4178039961986</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:36</sys_updated_on></sys_ui_application></record_update>]]></payload>
+<payload_hash>171552830</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:57</sys_created_on>
+<sys_id>5f83d1e8db5d0010fcf4178039961900</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a714e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:57</sys_updated_on>
+<table/>
+<target_name>A Global Scoped App</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>acb219a8025d00101f9ddce0ba4b5bb9</update_guid>
+<update_guid_history>acb219a8025d00101f9ddce0ba4b5bb9:171552830,a923c28e04ff7700cdd1f18fb0e75187:171552830</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_2652e05bdb680010fcf417803996197a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;sys_dictionary&lt;/collection&gt;&lt;condition&gt;current.sys_id == '657ce3af8042230065177a4cb39b43a7'&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;test2&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+	// Add your code here
+	
+	// hide all UI actions
+	current.canCreate = function () {
+		return false;
+	};
+	current.canRead = function () {
+		return false;
+	};
+	current.canWrite = function () {
+		return false;
+	};
+	current.canDelete = function () {
+		return false;
+	};
+	
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-22 12:20:11&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;2652e05bdb680010fcf417803996197a&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;test2&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9"&gt;0923860adbff7700fcf41780399619b9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="A Global Scoped App"&gt;0923860adbff7700fcf41780399619b9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_2652e05bdb680010fcf417803996197a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-22 12:31:48&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before_display&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=2652e05bdb680010fcf417803996197a"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-928272416</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>938391e8db5d0010fcf41780399619ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a706c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>sys_dictionary</table>
+<target_name>test2</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>24b219a8175d0010c4ff5aaf7b09c2ab</update_guid>
+<update_guid_history>24b219a8175d0010c4ff5aaf7b09c2ab:-928272416,f005ecdb49680010b8196a7f336576ef:-928272416,2ae4a81f3468001042a9801bf23c3d5b:2981963,e252e05bf5680010b168ff19fab5547d:1878722376</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_a_global_scoped_app_table_u_column_a_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_column_a" label="column a" language="en" table="u_a_global_scoped_app_table"><sys_documentation action="INSERT_OR_UPDATE"><element>u_column_a</element><help/><hint/><label>column a</label><language>en</language><name>u_a_global_scoped_app_table</name><plural>column as</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:26:51</sys_created_on><sys_id>01e302cedbff7700fcf4178039961983</sys_id><sys_mod_count>0</sys_mod_count><sys_name>column a</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_documentation_u_a_global_scoped_app_table_u_column_a_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:26:51</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>566922140</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>978391e8db5d0010fcf41780399619fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a6f360000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>A Global Scoped App Table.column a</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>60b219a8375d001017138e8bc29c2e98</update_guid>
+<update_guid_history>60b219a8375d001017138e8bc29c2e98:566922140,4de302ce03ff77005831b00496881c90:566922140</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_9d23828edbff7700fcf41780399619f6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>a_global_scoped_app_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:35</sys_created_on><sys_id>9d23828edbff7700fcf41780399619f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>a_global_scoped_app_user</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_user_role_9d23828edbff7700fcf41780399619f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:35</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>465985981</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:57</sys_created_on>
+<sys_id>9783d1e8db5d0010fcf4178039961901</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a71260000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:57</sys_updated_on>
+<table/>
+<target_name>a_global_scoped_app_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>ecb219a8895d001001ea46a82ba32db6</update_guid>
+<update_guid_history>ecb219a8895d001001ea46a82ba32db6:465985981,ee33468e2cff7700f5c45b1437bca5c4:465985981,d923828e9cff77003ff2c564ddcd23f9:524838450</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_a_global_scoped_app_table_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" table="u_a_global_scoped_app_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_a_global_scoped_app_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-09-11 15:23:36&lt;/sys_created_on&gt;&lt;sys_id&gt;1123c28edbff7700fcf4178039961939&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_a_global_scoped_app_table&lt;/sys_name&gt;&lt;sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9"&gt;0923860adbff7700fcf41780399619b9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="A Global Scoped App"&gt;0923860adbff7700fcf41780399619b9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_a_global_scoped_app_table_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-09-11 15:23:36&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>374429762</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>9b8391e8db5d0010fcf41780399619fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a6fa80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>A Global Scoped App Table</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>ecb219a8525d0010b7b8034890dc5e9d</update_guid>
+<update_guid_history>ecb219a8525d0010b7b8034890dc5e9d:374429762,6523c28e65ff77002a658ce0b83fd580:374429762</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_9d23c28edbff7700fcf4178039961911</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:36</sys_created_on><sys_id>9d23c28edbff7700fcf4178039961911</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_a_global_scoped_app_table.a_global_scoped_app_user</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_security_acl display_value="u_a_global_scoped_app_table">5923c28edbff7700fcf417803996190e</sys_security_acl><sys_update_name>sys_security_acl_role_9d23c28edbff7700fcf4178039961911</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:36</sys_updated_on><sys_user_role display_value="a_global_scoped_app_user" name="a_global_scoped_app_user">9d23828edbff7700fcf41780399619f6</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>789164014</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>9b83d1e8db5d0010fcf4178039961900</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a70440000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>u_a_global_scoped_app_table.a_global_scoped_app_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>e8b219a8195d0010b6562f843419c3a9</update_guid>
+<update_guid_history>e8b219a8195d0010b6562f843419c3a9:789164014,9923c28ea0ff77000c3b6bf16a54fc13:789164014</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_1523028edbff7700fcf417803996192f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>A Global Scoped App</name><order/><roles>a_global_scoped_app_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1523028edbff7700fcf417803996192f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>A Global Scoped App</sys_name><sys_overrides/><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_app_application_1523028edbff7700fcf417803996192f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:35</sys_updated_on><title>A Global Scoped App</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-595461681</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>9f8391e8db5d0010fcf41780399619fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a6ffe0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table/>
+<target_name>A Global Scoped App</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>6cb219a8cf5d0010613b6625640124a3</update_guid>
+<update_guid_history>6cb219a8cf5d0010613b6625640124a3:-595461681,d923c28ef7ff77000427ea6c55ae0d01:-595461681,d923028e74ff7700d697f0e49c516430:1386923249</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_d523c28edbff7700fcf4178039961914</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_a_global_scoped_app_table</description><name>u_a_global_scoped_app_table</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:36</sys_created_on><sys_id>d523c28edbff7700fcf4178039961914</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_a_global_scoped_app_table</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_security_acl_d523c28edbff7700fcf4178039961914</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:36</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-310223532</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>9f8391e8db5d0010fcf41780399619ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a70ee0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>u_a_global_scoped_app_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>acb219a8ac5d00104e2eea86938153b3</update_guid>
+<update_guid_history>acb219a8ac5d00104e2eea86938153b3:-310223532,5123c28ef6ff7700cac409266c44bf17:-310223532</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_0923860adbff7700fcf41780399619b9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><enforce_license>log</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="A Global Scoped App">1523028edbff7700fcf417803996192f</menu><name>A Global Scoped App</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>global</scope><scoped_administration>false</scoped_administration><short_description/><source>0923860adbff7700fcf41780399619b9</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:35</sys_created_on><sys_id>0923860adbff7700fcf41780399619b9</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-20 09:34:48</sys_updated_on><template/><trackable>true</trackable><user_role display_value="a_global_scoped_app_user" name="a_global_scoped_app_user">9d23828edbff7700fcf41780399619f6</user_role><vendor/><vendor_prefix/><version>1.1.2</version></sys_app></record_update>]]></payload>
+<payload_hash>1534748508</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>9f8399a8db5d0010fcf417803996197b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a6f170000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table/>
+<target_name>A Global Scoped App</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>a0b25de8841d00106b9c9e17541734ed</update_guid>
+<update_guid_history>a0b25de8841d00106b9c9e17541734ed:1534748508,be92d568a45d00104a37c61bf3e5071f:1534748508,454620d03e110010a5708cd93512a320:1204982747,1523828e4dff77007820ac3543791dfe:-1781253931</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_a_global_scoped_app_table_u_column_c</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_column_c" table="u_a_global_scoped_app_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;column c&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_column_c&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_a_global_scoped_app_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-09-11 15:26:51&lt;/sys_created_on&gt;&lt;sys_id&gt;ebd3ca8edbff7700fcf4178039961997&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;column c&lt;/sys_name&gt;&lt;sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9"&gt;0923860adbff7700fcf41780399619b9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="A Global Scoped App"&gt;0923860adbff7700fcf41780399619b9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_a_global_scoped_app_table_u_column_c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-09-11 15:26:51&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-875974404</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>d38391e8db5d0010fcf41780399619fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a6fea0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>A Global Scoped App Table.column c</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>a4b219a8145d00105d16633064c99fa2</update_guid>
+<update_guid_history>a4b219a8145d00105d16633064c99fa2:-875974404,0de302ce68ff770043855379a87b9c7d:-875974404</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_related_sys_app_global</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="global" table="sys_app" version="2" view="global"><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Custom Application - Global" name="sys_app" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">f5068cd1db188850fcf417803996194e</list_id><order_by/><position>0</position><related_list>sys_metadata.sys_scope</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-03 18:52:54</sys_created_on><sys_id>79068cd1db188850fcf417803996194f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-03 18:52:54</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Custom Application - Global" name="sys_app" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">f5068cd1db188850fcf417803996194e</list_id><order_by/><position>1</position><related_list>sys_package_dependency_m2m.sys_package</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-03 18:52:54</sys_created_on><sys_id>75068cd1db188850fcf4178039961950</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-03 18:52:54</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Custom Application - Global" name="sys_app" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">f5068cd1db188850fcf417803996194e</list_id><order_by/><position>2</position><related_list>sys_scope_privilege.sys_scope</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-03 18:52:54</sys_created_on><sys_id>f9068cd1db188850fcf4178039961950</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-03 18:52:54</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Custom Application - Global" name="sys_app" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">f5068cd1db188850fcf417803996194e</list_id><order_by/><position>3</position><related_list>sys_scope_design_access.sys_scope</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-03 18:52:54</sys_created_on><sys_id>71068cd1db188850fcf4178039961951</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-03 18:52:54</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Custom Application - Global" name="sys_app" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">f5068cd1db188850fcf417803996194e</list_id><order_by/><position>4</position><related_list>sys_update_set.application</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-03 18:52:54</sys_created_on><sys_id>f5068cd1db188850fcf4178039961951</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-03 18:52:54</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>Custom Application - Global</calculated_name><filter/><name>sys_app</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-03 18:52:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f5068cd1db188850fcf417803996194e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Custom Application - Global</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_ui_related_sys_app_global</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-03 18:52:54</sys_updated_on><sys_user/><view display_value="Global" name="global">b1b17b829333310063d3941e867ffbdf</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+<payload_hash>1627996665</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:57</sys_created_on>
+<sys_id>d383d1e8db5d0010fcf4178039961901</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a71890000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:57</sys_updated_on>
+<table>sys_app</table>
+<target_name>Custom Application</target_name>
+<type>Related Lists</type>
+<update_domain>global</update_domain>
+<update_guid>20b219a8475d00103b7b202dddad67be</update_guid>
+<update_guid_history>20b219a8475d00103b7b202dddad67be:1627996665,f1068cd15f18885024883b596fe4c353:1627996665</update_guid_history>
+<update_set display_value=""/>
+<view>global</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_4923860adbff7700fcf41780399619b9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>A Global Scoped App Table</label><live_feed_enabled>false</live_feed_enabled><name>u_a_global_scoped_app_table</name><number_ref/><provider_class/><read_access>true</read_access><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:35</sys_created_on><sys_id>4923860adbff7700fcf41780399619b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>A Global Scoped App Table</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_db_object_4923860adbff7700fcf41780399619b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:35</sys_updated_on><update_access>false</update_access><user_role display_value="a_global_scoped_app_user" name="a_global_scoped_app_user">9d23828edbff7700fcf41780399619f6</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>730234279</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>d78391e8db5d0010fcf41780399619fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a70ac0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>A Global Scoped App Table</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>e0b219a8fd5d00103a31d3168b1a02ae</update_guid>
+<update_guid_history>e0b219a8fd5d00103a31d3168b1a02ae:730234279,2d23c28efdff7700b058a1658e3cc382:730234279</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_1d23c28edbff7700fcf4178039961917</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:36</sys_created_on><sys_id>1d23c28edbff7700fcf4178039961917</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_a_global_scoped_app_table.a_global_scoped_app_user</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_security_acl display_value="u_a_global_scoped_app_table">d523c28edbff7700fcf4178039961914</sys_security_acl><sys_update_name>sys_security_acl_role_1d23c28edbff7700fcf4178039961917</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:36</sys_updated_on><sys_user_role display_value="a_global_scoped_app_user" name="a_global_scoped_app_user">9d23828edbff7700fcf41780399619f6</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1810414263</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>d783d1e8db5d0010fcf4178039961900</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a70350000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>u_a_global_scoped_app_table.a_global_scoped_app_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>24b219a8ea5d00108af335a39bc071a8</update_guid>
+<update_guid_history>24b219a8ea5d00108af335a39bc071a8:-1810414263,1923c28eb8ff770088d714663865aa19:-1810414263</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_9523c28edbff7700fcf4178039961907</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_a_global_scoped_app_table</description><name>u_a_global_scoped_app_table</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:36</sys_created_on><sys_id>9523c28edbff7700fcf4178039961907</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_a_global_scoped_app_table</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_security_acl_9523c28edbff7700fcf4178039961907</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:36</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1630159428</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>db8391e8db5d0010fcf41780399619ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a70e00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>u_a_global_scoped_app_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>28b219a88a5d0010e93828ba537aa3b2</update_guid>
+<update_guid_history>28b219a88a5d0010e93828ba537aa3b2:1630159428,1d23c28e93ff7700128e62237dbd300a:1630159428</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_a_global_scoped_app_table__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="A Global Scoped App Table" language="en" table="u_a_global_scoped_app_table"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>A Global Scoped App Table</label><language>en</language><name>u_a_global_scoped_app_table</name><plural>A Global Scoped App Tables</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-11 15:23:36</sys_created_on><sys_id>a523c28edbff7700fcf4178039961940</sys_id><sys_mod_count>0</sys_mod_count><sys_name>A Global Scoped App Table</sys_name><sys_package display_value="A Global Scoped App" source="0923860adbff7700fcf41780399619b9">0923860adbff7700fcf41780399619b9</sys_package><sys_policy/><sys_scope display_value="A Global Scoped App">0923860adbff7700fcf41780399619b9</sys_scope><sys_update_name>sys_documentation_u_a_global_scoped_app_table__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-11 15:23:36</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>289142012</payload_hash>
+<remote_update_set display_value="A Global Scoped App - 1.1.2">9b8399a8db5d0010fcf417803996197b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 09:38:56</sys_created_on>
+<sys_id>df8391e8db5d0010fcf41780399619fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e882a6f490000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 09:38:56</sys_updated_on>
+<table>u_a_global_scoped_app_table</table>
+<target_name>A Global Scoped App Table</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>e4b219a8bc5d00101576775e1c17f499</update_guid>
+<update_guid_history>e4b219a8bc5d00101576775e1c17f499:289142012,a923c28ebbff77006abdef8a38f99481:289142012</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
