@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "A Global Scoped App Table",
+  "language": "en",
+  "name": "u_a_global_scoped_app_table",
+  "plural": "A Global Scoped App Tables",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-11 15:23:36",
+  "sys_id": "a523c28edbff7700fcf4178039961940",
+  "sys_mod_count": 0,
+  "sys_name": "A Global Scoped App Table",
+  "sys_package": "0923860adbff7700fcf41780399619b9",
+  "sys_policy": null,
+  "sys_scope": "0923860adbff7700fcf41780399619b9",
+  "sys_update_name": "sys_documentation_u_a_global_scoped_app_table__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-11 15:23:36",
+  "url": null,
+  "url_target": null
+}

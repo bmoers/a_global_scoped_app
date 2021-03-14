@@ -1,0 +1,5 @@
+/**
+ * A Global Scoped App Business Rule
+ * @module sys_script
+ * @memberof global
+ */
